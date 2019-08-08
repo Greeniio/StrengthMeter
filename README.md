@@ -11,6 +11,6 @@ To add a screenshot, please replace `screenshot.png` with
 your own screenshot.
 -->
 
-## <your-project-name>
+## Strength Meter
 
-a brief description of your project goes here
+a game that determines how strong your finger pressure is compared to others
